@@ -1,0 +1,6 @@
+@ 3600 IN A 216.239.32.21
+@ 3600 IN A 216.239.34.21
+@ 3600 IN A 216.239.36.21
+@ 3600 IN A 216.239.38.21
+www 3600 IN CNAME ghs.google.com
+xy7y6f7vtzqi 3600 IN CNAME gv-swofy4jozqgwg7.dv.googlehosted.com
